@@ -1,0 +1,6 @@
+graphviz==0.14
+jsonpickle==1.4.1
+netmiko==3.1.0
+nornir==2.4.0
+ntc-templates==1.4.1
+textfsm==1.1.0
