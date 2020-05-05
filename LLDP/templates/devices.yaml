@@ -1,0 +1,36 @@
+CORE:
+  hostname: 10.0.0.33
+  username: cisco
+  password: cisco
+  platform: ios
+  connection_options:
+    netmiko:
+      extras:
+        secret: cisco
+SW2:
+  hostname: 10.0.0.34
+  username: cisco
+  password: cisco
+  platform: ios
+  connection_options:
+    netmiko:
+      extras:
+        secret: cisco
+SW3:
+  hostname: 10.0.0.35
+  username: cisco
+  password: cisco
+  platform: ios
+  connection_options:
+    netmiko:
+      extras:
+        secret: cisco
+SW3-tmp:
+  hostname: 10.0.0.36
+  username: cisco
+  password: cisco
+  platform: ios
+  connection_options:
+    netmiko:
+      extras:
+        secret: cisco

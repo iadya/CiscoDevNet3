@@ -1,0 +1,12 @@
+---
+core:
+  num_workers: 1
+  raise_on_error: False
+
+logging:
+  enabled: False
+
+inventory:
+  plugin: nornir.plugins.inventory.simple.SimpleInventory
+  options:
+    host_file: "templates/devices.yaml"
