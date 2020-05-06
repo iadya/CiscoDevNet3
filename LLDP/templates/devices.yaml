@@ -1,4 +1,4 @@
-CORE:
+MOSCOW-CORE:
   hostname: 10.0.0.33
   username: cisco
   password: cisco
@@ -7,7 +7,7 @@ CORE:
     netmiko:
       extras:
         secret: cisco
-SW2:
+MOSCOW-SW2:
   hostname: 10.0.0.34
   username: cisco
   password: cisco
@@ -16,7 +16,7 @@ SW2:
     netmiko:
       extras:
         secret: cisco
-SW3:
+MOSCOW-SW3:
   hostname: 10.0.0.35
   username: cisco
   password: cisco
@@ -25,7 +25,7 @@ SW3:
     netmiko:
       extras:
         secret: cisco
-SW3-tmp:
+MOSCOW-SW3-tmp:
   hostname: 10.0.0.36
   username: cisco
   password: cisco
