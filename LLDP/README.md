@@ -1,5 +1,6 @@
 CiscoDevNet3 / LLDP
 
+
 Запуск: lldp.py [<ggraph_filename>]
 
   Указание файла опционально.  
